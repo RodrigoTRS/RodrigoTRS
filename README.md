@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Rodrigo Teixeira. I'm a full stack developer from Brazil.
-Currently I'm working as a Systems Analyst @Instituto de Pesquisas Eldorado
+Currently working as Mid-level Backend Engineer @IPE
 
 ### LeetCode Stats
 
